@@ -1,4 +1,4 @@
-# Python 프로그래밍 실습 #5: 딕셔너리 (Dictionary)
+# Python 프로그래밍 실습
 
 ## 핵심코드
 
